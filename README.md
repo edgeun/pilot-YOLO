@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ab173210-1b83-49c4-a826-5218584bd4a6)![image](https://github.com/user-attachments/assets/4cd4aed9-4711-490c-bdf0-7438c6f92eb6)# 포트폴리오 프로젝트 모음
+# 포트폴리오 프로젝트 모음
 
 이 저장소에는 다양한 YOLO 신경망 활용 파일럿 프로젝트가 포함되어 있습니다. 각 프로젝트는 실시간 객체 탐지, 추적, 분석 등을 목표로 합니다.
 
@@ -21,4 +21,5 @@
 - **프로젝트 설명**: YOLO 모델을 통해 폐 엑스레이 사진에서 폐결절을 확인
 - **주요 기능**: 폐결절 인식
 - **시연 이미지**:  
-  ![폐결절 인식 이미지]()
+  ![폐결절 인식 이미지](![image](https://github.com/user-attachments/assets/2b5fc68f-addb-4475-93ed-9eb36619ce8e)
+)
