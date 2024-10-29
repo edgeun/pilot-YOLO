@@ -21,4 +21,4 @@
 - **프로젝트 설명**: YOLO 모델을 통해 폐 엑스레이 사진에서 폐결절을 확인
 - **주요 기능**: 폐결절 인식
 - **시연 이미지**:  
-  ![폐결절 인식 이미지](https://github.com/user-attachments/assets/2b5fc68f-addb-4475-93ed-9eb36619ce8e)
+  ![폐결절 인식 이미지]((https://github.com/user-attachments/assets/c84e84b7-0d95-4ca9-bac6-f748e8e56213)
